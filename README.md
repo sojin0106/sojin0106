@@ -1,4 +1,4 @@
-### Hi there 👋
+### AN SO JIN 👋
 
 <!--
 **sojin0106/sojin0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
