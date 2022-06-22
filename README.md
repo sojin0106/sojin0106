@@ -1,5 +1,5 @@
 ### 
-<div align = "center'>
+
 <!--
 **sojin0106/sojin0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align = "center'>
 ![header](https://capsule-render.vercel.app/api?type=Soft&align=center%&height=200&section=header&text=ANSOJIN%20😊&fontSize=90)
 
 
