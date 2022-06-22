@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## 💻 Skills
-<br/><br/>
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=HTML5&logoColor=white"> 
 </p>
 
-
+<br/><br/>
 ## 🛠 Tools
 
 <p>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=HTML5&logoColor=white"/>
 </p>
 
-
+<br/><br/>
 ## 📩 Contacts
 
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://serendipity-asj.tistory.com/)  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:thwls8290@gmail.com)
