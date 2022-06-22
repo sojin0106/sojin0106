@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 ## 💻 Skills
 
 <p>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/React-87CEFA?style=flat&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=HTML5&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS cloudfront-232F3E?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS route53-232F3E?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=black"> 
+  <img src="https://img.shields.io/badge/AWS S3-232F3E?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS cloudfront-232F3E?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS route53-232F3E?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=HTML5&logoColor=white"> 
 </p>
 
 
