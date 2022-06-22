@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Soft&align=center%&height=200&section=header&text=ANSOJIN%20😊&fontSize=90)
 
 
-<div align = "center'>
+
 ## 💻 Skills
 
 <p>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:thwls8290@gmail.com)
 
                                                                                                       
-</div>
+
 
 
 
