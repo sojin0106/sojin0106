@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 <br/><br/>
 ## 📩 Contacts
 
-<p>[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://serendipity-asj.tistory.com/)</p>  
-<p>[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:thwls8290@gmail.com)</p>  
+[![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://serendipity-asj.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:thwls8290@gmail.com)
 
 
 
