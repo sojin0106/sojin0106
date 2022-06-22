@@ -1,5 +1,5 @@
 ### 
-
+<div align = "center'>
 <!--
 **sojin0106/sojin0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://serendipity-asj.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:thwls8290@gmail.com)
 
-
+                                                                                                      
+</div>
 
 
 
