@@ -7,7 +7,7 @@
 </h3>
 <br/>
 
-## 💻 Skills
+## 💻 Front-end Stack 💻
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -24,7 +24,7 @@
 </p>
 
 <br/><br/>
-## 🛠 Tools
+## 🛠 Tools 🛠
 
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -35,7 +35,7 @@
 </p>
 
 <br/><br/>
-## 📩 Contacts
+## 📩 Contacts 📩
 
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://serendipity-asj.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:thwls8290@gmail.com)
