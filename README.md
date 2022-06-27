@@ -1,7 +1,7 @@
 <div align = "center">
    
 
-![header](https://capsule-render.vercel.app/api?type=Soft&align=center%&height=200&section=header&text=ANSOJIN%20😊&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&align=center%&height=200&section=header&text=Hello,I'm SoJin%20😊&fontSize=90)
 
 
 <h3>
