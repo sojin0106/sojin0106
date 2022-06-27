@@ -1,8 +1,6 @@
 <div align = "center">
    
-
-
- https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif  
+<img src="https://2.gall-gif.com/hygall/files/attach/images/82/557/552/189/1786b119778bb1ca718047c3a20e7285.gif">  
    
 <h3>
    안녕하세요 :) 프론트엔드 개발자 안소진입니다!</b><br/>
