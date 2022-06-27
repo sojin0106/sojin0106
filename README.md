@@ -1,6 +1,7 @@
+<div align = "center">
 ![header](https://capsule-render.vercel.app/api?type=Soft&align=center%&height=200&section=header&text=ANSOJIN%20😊&fontSize=90)
 
-<div align = "center">
+
 <h3>
    안녕하세요 :) 프론트엔드 개발자 안소진입니다!</b><br/>
 </h3>
