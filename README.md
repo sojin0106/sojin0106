@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&align=center%&height=200&section=header&text=ANSOJIN%20😊&fontSize=90)
 
+<div align = "center">
 <h3>
    안녕하세요 :) 프론트엔드 개발자 안소진입니다!</b><br/>
 </h3>
@@ -37,6 +38,8 @@
 
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://serendipity-asj.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:thwls8290@gmail.com)
+
+</div>
 
                                                                                                       
 
