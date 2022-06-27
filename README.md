@@ -1,6 +1,9 @@
 <div align = "center">
    
+![image](https://user-images.githubusercontent.com/97339665/175950721-857777eb-3c33-4cd9-8a3b-8958d92f5b80.png)
 
+   
+   
 <h3>
    안녕하세요 :) 프론트엔드 개발자 안소진입니다!</b><br/>
 </h3>
